@@ -7,11 +7,7 @@
 - 🌱 I’m currently learning Mern.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/joeltdev).
 - 💬 Ask me about PostgreSQL databases, Git, Data structures, new trends in development, and anything about Go.
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=joelmathew&label=Profile%20views&color=0e75b6&style=flat" alt="joelmathew" />
-</p>
-
+  
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)

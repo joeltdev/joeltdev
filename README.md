@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently learning Nodejs ExpressJs Embedded Js and TypeScript
-📫 How to reach me: joelmathew857@gmail.com
+.🔭 I’m currently learning Nodejs ExpressJs Embedded Js and TypeScript
+.📫 How to reach me: joelmathew857@gmail.com
 <!--
 **joeltdev/joeltdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

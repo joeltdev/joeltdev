@@ -1,13 +1,6 @@
 ### Hi there, I'm joel! 👋
 
-🔭 I’m currently learning Node.js, Express.js, Embedded JavaScript (EJS), and TypeScript.
-
-📫 You can reach me at: [joelmathew857@gmail.com](mailto:joelmathew857@gmail.com)
-
-- 🌱 I’m currently learning Mern.
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/joeltdev).
-- 💬 Ask me about PostgreSQL databases, Git, Data structures, new trends in development, and anything about Go.
-  
+🔭 I’m currently learning Node.js, Express.js, Embedded JavaScript (EJS), and TypeScript.  
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)

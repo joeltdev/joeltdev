@@ -1,7 +1,5 @@
 ### Hi there, I'm joel! 👋
 
-🔭 I’m currently learning Node.js, Express.js, Embedded JavaScript (EJS), and TypeScript.  
-
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)

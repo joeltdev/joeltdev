@@ -1,46 +1,38 @@
-<h1 align="center">🌌 Welcome to Joel's Dev Galaxy! 🚀</h1>
+<h1 align="center">Hello, I'm Joel Mathew! 🌟</h1>
+
+---
 
 <div align="center">
-    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300px" alt="Spaceship GIF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=30&center=true&vCenter=true&width=700&height=50&duration=3000&pause=1000&color=00FF00&background=000000&lines=Welcome+to+My+Digital+Canvas!;Creative+Developer+and+Tech+Explorer!;" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🪐 **Galaxy Overview**
+### 💻 **Tech Stack**
 
-Welcome, traveler! You've arrived in the **Joelverse**, a universe full of innovative technologies, creative experiments, and endless curiosity.
-
----
-
-### 🌟 **Constellations in My Galaxy**
-
-| **Constellation** | **Star Description**                                  |
-|-------------------|------------------------------------------------------|
-| **JavaScriptia**  | Bright and dynamic, powering interactive web apps.   |
-| **GoLangidum**    | Efficient and scalable, perfect for back-end magic.  |
-| **Reactron**      | Stunning visuals and seamless user experiences.      |
-| **Mongocron**     | Flexible and robust, the database of the future.     |
-| **Tailwindium**   | The styling wizardry for sleek, modern designs.      |
+| **Technology**   | **Proficiency** |
+|-----------------|-----------------|
+| **JavaScript**  | ⭐⭐⭐⭐⭐           |
+| **GoLang**      | ⭐⭐⭐⭐           |
+| **React**       | ⭐⭐⭐⭐           |
+| **MongoDB**     | ⭐⭐⭐            |
+| **Tailwind CSS**| ⭐⭐⭐⭐⭐           |
+| **AWS**         | ⭐⭐⭐            |
 
 ---
 
-### 🚀 **Spacecraft of Projects**
+### 🎨 **Project Gallery**
 
-Take a look at the spacecrafts I've launched into the dev universe:
+Take a stroll through my digital art gallery of projects:
 
-- 🛰️ **[Portfolio Explorer](https://joelmathewportfolio.com)**: My personal portfolio showcasing all my skills.
-- 🌍 **[Global Connect](https://github.com/joelmathew/global-connect)**: A React-based global chat app.
-- 🔭 **[Stellar Blogs](https://github.com/joelmathew/stellar-blogs)**: A blog platform with a cosmic design.
+- **[Interactive Portfolio](https://joelmathewportfolio.com)**: Showcasing my skills and projects.
+- **[Global Chat](https://github.com/joelmathew/global-chat)**: A real-time chat application with real-world data.
+- **[Stellar Blogs](https://github.com/joelmathew/stellar-blogs)**: A dynamic blog platform with a fresh, modern design.
 
 ---
 
-### 🔧 **Command Center**
+### ✨ **Creative Philosophy**
 
 ```bash
-> tech-stack --list
-- JavaScript
-- GoLang
-- React
-- MongoDB
-- Tailwind CSS
-- AWS
+> creative-thoughts
+I'm a tech explorer who believes in the power of innovation to shape the future. Every line of code is a brushstroke on my digital canvas.

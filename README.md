@@ -1,38 +1,15 @@
-<h1 align="center">Hello, I'm Joel Mathew! 🌟</h1>
+<h1 align="center">Welcome to Joel Mathew's GitHub! 👨‍💻</h1>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=30&center=true&vCenter=true&width=700&height=50&duration=3000&pause=1000&color=00FF00&background=000000&lines=Welcome+to+My+Digital+Canvas!;Creative+Developer+and+Tech+Explorer!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=printf(%22Hello,+World!%22);System.out.println(%22Joel+Mathew%22);console.log(%22Creative+Developer+at+Heart%22);Hola,+Soy+Aprendiendo+Español!+🌍" alt="Typing SVG" />
 </div>
 
 ---
 
-### 💻 **Tech Stack**
-
-| **Technology**   | **Proficiency** |
-|-----------------|-----------------|
-| **JavaScript**  | ⭐⭐⭐⭐⭐           |
-| **GoLang**      | ⭐⭐⭐⭐           |
-| **React**       | ⭐⭐⭐⭐           |
-| **MongoDB**     | ⭐⭐⭐            |
-| **Tailwind CSS**| ⭐⭐⭐⭐⭐           |
-| **AWS**         | ⭐⭐⭐            |
-
----
-
-### 🎨 **Project Gallery**
-
-Take a stroll through my digital art gallery of projects:
-
-- **[Interactive Portfolio](https://joelmathewportfolio.com)**: Showcasing my skills and projects.
-- **[Global Chat](https://github.com/joelmathew/global-chat)**: A real-time chat application with real-world data.
-- **[Stellar Blogs](https://github.com/joelmathew/stellar-blogs)**: A dynamic blog platform with a fresh, modern design.
-
----
-
-### ✨ **Creative Philosophy**
+### Who Am I?
 
 ```bash
-> creative-thoughts
-I'm a tech explorer who believes in the power of innovation to shape the future. Every line of code is a brushstroke on my digital canvas.
+> ./whoami
+Joel Mathew, a 23-year-old passionate developer with expertise in modern web technologies, a love for design, and a hunger for learning.

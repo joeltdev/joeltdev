@@ -11,7 +11,8 @@
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,mongodb,html,css,figma,github" alt="Skills" /> </div>
 
-<div align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="400" /> </div>
+
+<div align="center"> <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding GIF" width="200" /> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=printf(%22Hello,+World!%22);System.out.println(%22Welcome+to+Innovation!%22);console.log(%22I+Code,+Design,+and+Dream!%22);" alt="Typing Animation" /> </div>
 
 ### Who Am I?
 

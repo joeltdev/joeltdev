@@ -2,7 +2,14 @@
 
 ---
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JoelMathewDev&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com?user=JoelMathewDev&theme=tokyonight" alt="GitHub Streak" /> </div>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=printf(%22Hello,+World!%22);System.out.println(%22Joel+Mathew%22);console.log(%22Creative+Developer+at+Heart%22);Hola,+Soy+Aprendiendo+Español!+🌍" alt="Typing SVG" />
+</div>
+
+<div align="center">
+    <img src="https://assets8.lottiefiles.com/private_files/lf30_tGLhgeuc.json" width="300" alt="Animated Developer" />
+</div>
+
 
 
 ### Who Am I?

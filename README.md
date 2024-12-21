@@ -11,6 +11,8 @@
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,mongodb,html,css,figma,github" alt="Skills" /> </div>
 
+<div align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="400" /> </div>
+
 ### Who Am I?
 
 ```bash

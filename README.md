@@ -9,6 +9,8 @@
 
 <div align="center"> <a href="https://github.com/JoelMathewDev"><img src="https://github-profile-trophy.vercel.app/?username=JoelMathewDev&theme=radical&margin-w=15&margin-h=15&row=1&column=6" alt="Trophies" /></a> </div>
 
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,mongodb,html,css,figma,github" alt="Skills" /> </div>
+
 ### Who Am I?
 
 ```bash

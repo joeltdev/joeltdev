@@ -2,8 +2,9 @@
 
 ---
 
-<div align="center"> <a href="https://www.linkedin.com/in/joelmathew"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/joelmathewdev"><img src="https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter"></a> <a href="mailto:joelmathew@example.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=red" alt="Email"></a> </div>
----
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=printf(%22Hello,+World!%22);System.out.println(%22Joel+Mathew%22);console.log(%22Creative+Developer+at+Heart%22);Hola,+Soy+Aprendiendo+Español!+🌍" alt="Typing SVG" />
+</div>
 
 ### Who Am I?
 
